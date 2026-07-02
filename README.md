@@ -8,9 +8,6 @@ UI/UX Designer with 2+ years of experience designing responsive web and mobile i
 - Design systems & accessible interfaces (WCAG)
 - Usability testing
 
-🛠️ Tools:
-`Figma`
-
 🔗 Connect with me:
 - LinkedIn: www.linkedin.com/in/thanojan-sivalingam-29312524b
 - Email: thano4514@gmail.com
