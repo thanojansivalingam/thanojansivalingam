@@ -1,4 +1,4 @@
-### Hi, I'm [Thanojan] 👋
+### Hi, I'm Thanojan 👋
 
 UI/UX Designer with 2+ years of experience designing responsive web and mobile interfaces at **Triangle Creative Lab**.
 
@@ -14,4 +14,4 @@ UI/UX Designer with 2+ years of experience designing responsive web and mobile i
 📌 Currently designing for web, mobile, and digital products at Triangle Creative Lab.
 
 🔗 Connect with me:
-- LinkedIn: [www.linkedin.com/in/thanojan-sivalingam-29312524b]
+- LinkedIn: www.linkedin.com/in/thanojan-sivalingam-29312524b
