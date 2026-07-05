@@ -12,5 +12,5 @@ UI/UX Designer with 2+ years of experience designing responsive web and mobile i
 `Figma` `Adobe Illustrator` `Adobe Photoshop` `Adobe XD` `Canva`
 
 🔗 Connect with me:
-- LinkedIn: www.linkedin.com/in/thanojan-sivalingam-29312524b
+- LinkedIn: www.linkedin.com/in/thanojansivalingam
 - Email: thano4514@gmail.com
