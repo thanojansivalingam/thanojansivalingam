@@ -5,8 +5,6 @@ UI/UX Designer with 2+ years of experience designing responsive web and mobile i
 💻 What I focus on:
 - Responsive web & mobile app design
 - Wireframing → prototyping → hi-fi UI in Figma
-- Design systems & accessible interfaces (WCAG)
-- Usability testing
 
 🛠️ Tools:
 `Figma` `Adobe Illustrator` `Adobe Photoshop` `Adobe XD` `Canva`
